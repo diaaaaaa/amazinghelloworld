@@ -10,6 +10,6 @@ World world = new World();
 
 
     public String sayHelloWorld() {
-        return hello.sayHello() + " " + world.sayWorld();
+        return hello.sayHello() + "_" + world.sayWorld();
     }
 }
