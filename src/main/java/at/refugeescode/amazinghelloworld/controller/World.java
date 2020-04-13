@@ -9,7 +9,7 @@ public class World {
 
     public String sayWorld(){
 
-        return "World";
+        return "world";
 
     }
 }
